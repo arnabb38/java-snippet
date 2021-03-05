@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InnerClassDemo.iml" filepath="$PROJECT_DIR$/InnerClassDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLambdaBasic.iml" filepath="$PROJECT_DIR$/JavaLambdaBasic.iml" />
     </modules>
   </component>
 </project>
