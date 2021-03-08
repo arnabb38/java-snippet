@@ -1,4 +1,4 @@
-package com.arnabb;
+package com.arnabb.unit1;
 
 public class Greeter {
 
